@@ -11,6 +11,7 @@
     <header class="index">
         <?php include("view/logo.php"); ?>
         <nav>
+            
             <ul>
                 <li><a href="index.php">TRANG CHỦ</a></li>
                 <li><a href="">GIỚI THIỆU</a></li>
